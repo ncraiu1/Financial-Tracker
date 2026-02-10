@@ -1,12 +1,12 @@
 # Personal Finance Tracking Program
 
 ## Overview
-This project is a Python-based Personal Finance Tracking Program designed to help users manage their income, expenses, and savings goals. The program allows users to create a budget, track financial activity, generate summaries, and save financial records to a text file.
+This project is a Python-based Personal Finance Tracking Program designed to help a user manage their income, expenses, and savings goals. The program allows a user to create a budget, track financial activity, generate summaries, and save financial records to a text file.
 
 ---
 
 ## Program Objectives
-- Allow users to set a weekly or monthly budget
+- Allow a user to set a weekly or monthly budget
 - Track income, expenses, and savings goals
 - Calculate total expenses and remaining budget
 - Generate a formatted financial report
@@ -50,3 +50,4 @@ Command-line interface only
 Single-user support
 
 Basic financial analysis
+
